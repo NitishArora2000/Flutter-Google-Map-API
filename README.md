@@ -1,6 +1,16 @@
-# google_maps
+# Flutter Google Map API
 
 A new Flutter project.
+
+# Screenshot 😃
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/61377353/103154686-0699cb00-47bf-11eb-88c7-e0664771f4b4.png" width=270 height=480></td>   
+  </tr>
+ </table>
+
+
 
 ## Getting Started
 
